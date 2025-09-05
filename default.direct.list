@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,cnspeedtest.cn
 DOMAIN-SUFFIX,global-mail.cn
 DOMAIN-SUFFIX,inftab.com
+IP-CIDR,117.72.225.3/32
