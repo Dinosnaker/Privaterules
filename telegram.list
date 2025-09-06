@@ -1,0 +1,10 @@
+# Telegram proxy route
+IP-CIDR,5.28.192.0/18
+DST-PORT,8096
+DOMAIN-SUFFIX,emby.as174.de
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,cf.gtlx.org
+DOMAIN-SUFFIX,xdrig.com
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,xxlb.net
