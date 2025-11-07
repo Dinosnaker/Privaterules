@@ -1,6 +1,6 @@
 # Telegram proxy route
 IP-CIDR,5.28.192.0/18
-IP-CIDR,43.160.156.0/18
+# WeChat ipIP-CIDR,43.160.156.0/18
 DST-PORT,8096
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,play.charontv.com
