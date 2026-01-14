@@ -1,7 +1,4 @@
 # UK DOMAINS
-
-DOMAIN-SUFFIX,co.uk
-DOMAIN-SUFFIX,org.uk
 DOMAIN-SUFFIX,airport-pickups-london.com
 DOMAIN-SUFFIX,armycadets.com
 DOMAIN-SUFFIX,badmintonschool.co.uk
@@ -35,8 +32,11 @@ DOMAIN-SUFFIX,reach.cloud
 DOMAIN-SUFFIX,schoolbase.online
 DOMAIN-SUFFIX,schoolvaccination.uk
 DOMAIN-SUFFIX,socscms.com
+DOMAIN-SUFFIX,ticketsource.co.uk
 DOMAIN-SUFFIX,unifrog.org
 DOMAIN-SUFFIX,xero.com
 DOMAIN-SUFFIX,ytmp3.audio
 DOMAIN-KEYWORD,uk.com
 GEOIP,uk
+DOMAIN-SUFFIX,co.uk
+DOMAIN-SUFFIX,org.uk
