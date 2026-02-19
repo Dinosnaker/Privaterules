@@ -37,9 +37,7 @@ DOMAIN-SUFFIX,ticketsource.co.uk
 DOMAIN-SUFFIX,unifrog.org
 DOMAIN-SUFFIX,xero.com
 DOMAIN-SUFFIX,ytmp3.audio
-DOMAIN-KEYWORD,uk.com
 DOMAIN-KEYWORD,bbc
-# DOMAIN-KEYWORD,uk
 GEOIP,uk
 DOMAIN-SUFFIX,co.uk
 DOMAIN-SUFFIX,org.uk
