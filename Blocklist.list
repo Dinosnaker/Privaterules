@@ -1,0 +1,7 @@
+# === 彩云天气去广告规则 开始 ===
+- DOMAIN-SUFFIX,ad.caiyunapp.com,REJECT
+- DOMAIN-SUFFIX,pangle.io,REJECT
+- DOMAIN-SUFFIX,adx.mosspf.com,REJECT
+# 如果后续发现仍有穿山甲广告漏网，可以补充以下规则
+- DOMAIN-KEYWORD,pangle,REJECT
+# === 彩云天气去广告规则 结束 ===
