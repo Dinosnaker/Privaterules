@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,adx.mosspf.com
 # 如果后续发现仍有穿山甲广告漏网，可以补充以下规则
 DOMAIN-KEYWORD,pangle
 # === 彩云天气去广告规则 结束 ===
+#当贝#
+DOMAIN-SUFFIX,fota.dangbei.net
+DOMAIN-SUFFIX,upgrade.dangbei.com
