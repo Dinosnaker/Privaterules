@@ -8,11 +8,11 @@ DOMAIN-SUFFIX,introdb.app
 DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,xdrig.com
 ## 1111
-#DOMAIN-SUFFIX,emby.moe
-#DOMAIN-SUFFIX,cf.gtlx.org
-#DOMAIN-SUFFIX,xmsl.org
-#DOMAIN-SUFFIX,xxlb.net
-#DST-PORT,8096
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,cf.gtlx.org
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,xxlb.net
+DST-PORT,8096
 ##  yfsp
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,vip
