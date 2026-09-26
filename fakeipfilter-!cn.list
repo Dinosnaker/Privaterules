@@ -1,0 +1,33 @@
+# 微软专属邮箱服务 (保留你原配置的精准放行)
+*.office365.com
+*.outlook.com
+*.live.com
+
+# 连通性探测 / 工具 (避免 Windows 或手机系统误判“已连接但无法访问互联网”)
++.msftconnecttest.com
++.msftncsi.com
+detectportal.firefox.com
+
+# 全球 STUN 协议 (整合并补全你原本的 STUN 规则)
++.stun.*.*
++.stun.*.*.*
++.stun.*.*.*.*
++.stun.*.*.*.*.*
+stun.*.*
+stun.*.*.*
+
+# NTP 国际时间同步
+time-ios.apple.com
++.pool.ntp.org
+time.*.com
+time.*.gov
+time.*.apple.com
+ntp.*.com
+
+# 主机游戏网络探测 (若不玩主机也可保留，无性能负担)
++.srv.nintendo.net
++.stun.playstation.net
+xbox.*.microsoft.com
+
+# Google STUN 探测
+stun.l.google.com

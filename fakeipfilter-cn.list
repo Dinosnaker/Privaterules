@@ -1,0 +1,41 @@
+# LAN / 私有域 (保留你原本的基础配置)
+localhost
+*.lan
+*.localdomain
+*.example
+*.invalid
+*.localhost
+*.test
+*.local
+*.home.arpa
+*.direct
+
+# QQ/微信/网页端本地授权登录 (极大优化扫码登录体验)
+localhost.ptlogin2.qq.com
+localhost.sec.qq.com
+localhost.*.weixin.qq.com
+
+# Apple 软件更新（国内 CDN，防止升级变慢）
+mesu.apple.com
+swscan.apple.com
+swdownload.apple.com
+swcdn.apple.com
+swdist.apple.com
+
+# 国内流媒体与下载 CDN (防直连解析失败)
+*.mcdn.bilivideo.cn
++.sandai.net
++.n0808.com
+
+# NTP 国内时间同步
+ntp.aliyun.com
+ntp.tencent.com
+time.*.edu.cn
+
+# STUN 国内穿透
++.stun.*.cn
++.stun.*.*.cn
++.stun.*.*.*.cn
++.stun.*.*.*.*.cn
+stun.*.cn
+stun.*.*.cn
