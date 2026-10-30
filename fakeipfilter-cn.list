@@ -39,3 +39,6 @@ time.*.edu.cn
 +.stun.*.*.*.*.cn
 stun.*.cn
 stun.*.*.cn
+
+# 新网邮箱服务
++.global-mail.cn
