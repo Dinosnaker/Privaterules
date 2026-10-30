@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,ad.caiyunapp.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,adx.mosspf.com
+DOMAIN-SUFFIX,weatheroffer.com
 # 如果后续发现仍有穿山甲广告漏网，可以补充以下规则
 DOMAIN-KEYWORD,pangle
 # === 彩云天气去广告规则 结束 ===
@@ -10,4 +11,14 @@ DOMAIN-SUFFIX,fota.dangbei.net
 DOMAIN-SUFFIX,upgrade.dangbei.com
 #Adg#
 DOMAIN-SUFFIX,getui.com
+# 聚合广告平台与 SDK
+DOMAIN-SUFFIX,mossru.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,appsflyersdk.com
+# Google 广告阻断（避免被 google_domain 代理放行）
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
 
